@@ -1,5 +1,4 @@
 // Kraig Walker
-// Student No. 1000272
 // Game Engine Object
 // C++ Source - GameEngine.cpp
 
