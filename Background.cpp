@@ -1,5 +1,4 @@
  // Kraig Walker
-// Student No. 1000272
 // Background Object
 // Source - Background.cpp
 
